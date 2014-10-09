@@ -112,7 +112,10 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
+<<<<<<< HEAD
   debugger
+=======
+>>>>>>> 8c10dc0d6a03cff82db405aeaa6165fd20c1e6bb
   haml
   jquery-rails
   rails (= 3.2.16)

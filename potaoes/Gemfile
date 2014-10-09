@@ -7,12 +7,17 @@ gem 'rails', '3.2.16'
 
 gem 'sqlite3'
 
+<<<<<<< HEAD
 #use Haml for templates
 gem 'haml'
 #use Ruby debugger
 group :development, :test do
 	gem 'debugger'
 end
+=======
+# use Haml for templates
+gem 'haml'
+>>>>>>> 8c10dc0d6a03cff82db405aeaa6165fd20c1e6bb
 
 # Gems used only for assets and not required
 # in production environments by default.
