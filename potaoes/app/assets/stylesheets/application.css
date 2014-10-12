@@ -49,6 +49,8 @@ table#movies th, table#movies td {
 	text-align: left;
 }
 #notice, #warning {
+	color: red;
+	text-align: center;
 	background: rosybrown;
 	margin: lem 0;
 	padding: 4px;
